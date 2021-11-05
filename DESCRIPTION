@@ -1,0 +1,16 @@
+Package: xcfuns
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Chao Xu
+Maintainer: Chao Xu <xuchao3091@live.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.2
+Imports: 
+    ggplot2,
+    dplyr
